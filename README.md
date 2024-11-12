@@ -1,4 +1,4 @@
-# PDump
+# PDump (Password Dumper)
 
 ```bash
 ██████╗ ██████╗ ██╗   ██╗███╗   ███╗██████╗
